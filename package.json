@@ -1,0 +1,30 @@
+{
+  "name": "mean2",
+  "version": "1.0.0",
+  "description": "Mean Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehingia/me-ang-te-app-2.0.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Pritam Dehingia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdehingia/me-ang-te-app-2.0/issues"
+  },
+  "homepage": "https://github.com/pdehingia/me-ang-te-app-2.0#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.3"
+  }
+}
